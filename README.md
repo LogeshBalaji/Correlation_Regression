@@ -1,6 +1,7 @@
-# Correlation and regression for data analysis
+# Exp 2: Correlation and regression for data analysis
 ## Name: KARTHIK PADMANABAN R
 ## Register number: 24001743
+## Date: 14.12.2024
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
