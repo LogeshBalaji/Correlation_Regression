@@ -1,4 +1,6 @@
 # Correlation and regression for data analysis
+## Name: KARTHIK PADMANABAN R
+## Register number: 24001743
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
@@ -20,10 +22,14 @@ If y represents the dependent variable and x the independent variable, this rela
 ![image](https://user-images.githubusercontent.com/104613195/168225866-ac8f6610-bdc3-4ac2-a24e-2b24ba08e189.png)
 
 # Program :
-
+~~~
+Name: KARTHIK PADMANABAN R
+Register number: 24001743
+~~~
 ![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
 
 
 # Result
+![Screenshot 2024-12-13 203045](https://github.com/user-attachments/assets/e2e9f046-9a73-4eb6-8ddd-769180490a92)
 
 # Output 
