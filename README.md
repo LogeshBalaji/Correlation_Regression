@@ -1,6 +1,5 @@
 # Exp 3: Correlation and regression for data analysis
-## Name: Logesh.B
-## Register number: 24900577
+
 ## Date: 26.10.2024
 # Aim : 
 
